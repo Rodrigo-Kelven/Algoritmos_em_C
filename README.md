@@ -6,10 +6,8 @@ Este repositório contém uma coleção de algoritmos clássicos e modernos impl
 
 ## Uso/Exemplos
 
-## Primeiro é nescessário compilar o código escrito em C para Bash ".sh".
-```javascript
-
-Digite este comando para a compilação do código, logo após execute o mesmo.
+## Primeiro é nescessário compilar o código escrito em C para Bash ".sh". Digite este comando para a compilação do código, logo após execute o mesmo.
+```bash
 
 gcc busca_linear.c -o busca_linear
 
