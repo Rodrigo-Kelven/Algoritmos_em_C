@@ -1,5 +1,6 @@
 
 # Algoritmos em C
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 Este repositório contém uma coleção de algoritmos clássicos e modernos implementados na linguagem de programação C. O objetivo é fornecer um recurso abrangente para estudantes, desenvolvedores e entusiastas da programação que desejam aprender, entender e aplicar diferentes técnicas algorítmicas.
 
