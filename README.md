@@ -39,3 +39,5 @@ gcc busca_linear.c -o busca_linear
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para adicionar novos algoritmos, corrigir erros ou melhorar a documentação. :)
 
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
